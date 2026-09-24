@@ -23,3 +23,5 @@ screening.
 ## Team Notes
 <!-- add your own line below, one per teammate -->
 
+
+- Mendy : je préciserais le temps d'incubation à l'étape 3.
