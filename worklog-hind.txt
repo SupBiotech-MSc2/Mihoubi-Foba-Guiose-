@@ -1,0 +1,562 @@
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+README.md
+instructions.md
+protocol.md
+worklog-hind.txt
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+[main ff76c66] feat: add team note from hind
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+commit ff76c663ecde19f4a69e4d853bb975a5caad3d9c
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:06:10 2026 +0100
+
+    feat: add team note from hind
+
+diff --git a/protocol.md b/protocol.md
+index a79bcce..9fd5ad2 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -1,6 +1,4 @@
+-# CRISPR Knockout Screening Protocol
+-
+-**Status:** Draft v1
++# CRISPR Knockout Screening Protocol**Status:** Draft v1
+ 
+ ## Overview
+ Protocol for generating single-gene knockouts in HEK293 cells using
+@@ -25,3 +23,4 @@ screening.
+ 
+ 
+ - Mendy : je préciserais le temps d'incubation à l'étape 3.
++- Hind  : je ralentirais l'étape de transduction.
+[main b6938b5] fix: restore title and status lines in protocol.md
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+Already up to date.
+# CRISPR Knockout Screening Protocol
+
+**Status:** Draft v1
+
+## Overview
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+## Team Notes
+<!-- add your own line below, one per teammate -->
+
+
+- Mendy : je préciserais le temps d'incubation à l'étape 3.
+- Hind  : je ralentirais l'étape de transduction.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	protocol.mdx
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+Unstaged changes after reset:
+M	protocol.md
+On branch main
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	protocol.mdx
+	worklog-hind.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	protocol.mdx
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+ff76c66 feat: add team note from hind
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+[main 4578378] Revert "feat: add team note from hind"
+ Date: Mon Nov 16 22:34:48 2026 +0100
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+Auto-merging protocol.md
+Merge made by the 'ort' strategy.
+*   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| * b6938b5 fix: restore title and status lines in protocol.md
+* | 4578378 Revert "feat: add team note from hind"
+|/  
+* ff76c66 feat: add team note from hind
+* a754831 feat: add team note from mendy
+* c20bf82 Initial commit
+*   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| * b6938b5 fix: restore title and status lines in protocol.md
+* | 4578378 Revert "feat: add team note from hind"
+|/  
+* ff76c66 feat: add team note from hind
+* a754831 feat: add team note from mendy
+* c20bf82 Initial commit
+[main 176e70a] docs: restore team note from hind
+ 1 file changed, 1 insertion(+)
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	protocol.mdx
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 176e70a0f5886993ddaa9779b26c642936a605b4
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:43:49 2026 +0100
+
+    docs: restore team note from hind
+
+commit bccb6b773c998e58eb5a2ceaacb0a9fbb55c58f0
+Merge: 4578378 b6938b5
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:37:11 2026 +0100
+
+    Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+
+commit 45783781bd30229dbe6b1f04dd20c798abaec840
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:34:48 2026 +0100
+
+    Revert "feat: add team note from hind"
+    
+    This reverts commit ff76c663ecde19f4a69e4d853bb975a5caad3d9c.
+
+commit b6938b5e3f1ed5e07b3ef2a86bf1fa61976f1c77
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:11:21 2026 +0100
+
+    fix: restore title and status lines in protocol.md
+
+commit ff76c663ecde19f4a69e4d853bb975a5caad3d9c
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:06:10 2026 +0100
+
+    feat: add team note from hind
+
+commit a754831592dd533cd1e3e5e54ecd0c1ebed0c1f0
+Author: Mendy Foba <mendyfoba@MacBook-Air-de-Mendy.local>
+Date:   Thu Sep 24 12:21:48 2026 +0200
+
+    feat: add team note from mendy
+
+commit c20bf8294c08f137fd29f1312e7afc5b683ae120
+Author: hind2509 <hindoucha.mih25@gmail.com>
+Date:   Thu Sep 24 11:47:12 2026 +0200
+
+    Initial commit
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+commit b6938b5e3f1ed5e07b3ef2a86bf1fa61976f1c77
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:11:21 2026 +0100
+
+    fix: restore title and status lines in protocol.md
+
+diff --git a/protocol.md b/protocol.md
+index 9fd5ad2..5b30754 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -1,4 +1,6 @@
+-# CRISPR Knockout Screening Protocol**Status:** Draft v1
++# CRISPR Knockout Screening Protocol
++
++**Status:** Draft v1
+ 
+ ## Overview
+ Protocol for generating single-gene knockouts in HEK293 cells using
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	protocol.mdx
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+* 176e70a docs: restore team note from hind
+*   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| * b6938b5 fix: restore title and status lines in protocol.md
+* | 4578378 Revert "feat: add team note from hind"
+|/  
+* ff76c66 feat: add team note from hind
+* a754831 feat: add team note from mendy
+* c20bf82 Initial commit
+commit 176e70a0f5886993ddaa9779b26c642936a605b4
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:43:49 2026 +0100
+
+    docs: restore team note from hind
+
+commit bccb6b773c998e58eb5a2ceaacb0a9fbb55c58f0
+Merge: 4578378 b6938b5
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:37:11 2026 +0100
+
+    Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+
+commit 45783781bd30229dbe6b1f04dd20c798abaec840
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:34:48 2026 +0100
+
+    Revert "feat: add team note from hind"
+    
+    This reverts commit ff76c663ecde19f4a69e4d853bb975a5caad3d9c.
+
+commit b6938b5e3f1ed5e07b3ef2a86bf1fa61976f1c77
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:11:21 2026 +0100
+
+    fix: restore title and status lines in protocol.md
+
+commit ff76c663ecde19f4a69e4d853bb975a5caad3d9c
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:06:10 2026 +0100
+
+    feat: add team note from hind
+
+commit a754831592dd533cd1e3e5e54ecd0c1ebed0c1f0
+Author: Mendy Foba <mendyfoba@MacBook-Air-de-Mendy.local>
+Date:   Thu Sep 24 12:21:48 2026 +0200
+
+    feat: add team note from mendy
+
+commit c20bf8294c08f137fd29f1312e7afc5b683ae120
+Author: hind2509 <hindoucha.mih25@gmail.com>
+Date:   Thu Sep 24 11:47:12 2026 +0200
+
+    Initial commit
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+commit b6938b5e3f1ed5e07b3ef2a86bf1fa61976f1c77
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:11:21 2026 +0100
+
+    fix: restore title and status lines in protocol.md
+
+diff --git a/protocol.md b/protocol.md
+index 9fd5ad2..5b30754 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -1,4 +1,6 @@
+-# CRISPR Knockout Screening Protocol**Status:** Draft v1
++# CRISPR Knockout Screening Protocol
++
++**Status:** Draft v1
+ 
+ ## Overview
+ Protocol for generating single-gene knockouts in HEK293 cells using
+* feature/hind-idea
+  main
+diff --git a/protocol.md b/protocol.md
+index 5b30754..4376009 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -12,6 +12,7 @@ screening.
+ - Synthetic sgRNA (target-specific)
+ - Electroporation buffer
+ - HEK293 cells, passage < 20
++- Culture medium (DMEM + 10% FBS)
+ 
+ ## Steps
+ 1. Design and order sgRNA targeting exon 2 of the gene of interest.
+[feature/hind-idea 872371d] feat: add culture medium to reagents
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/main'.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+* feature/hind-idea
+  main
+diff --git a/protocol.md b/protocol.md
+index 4376009..e8bd106 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -18,7 +18,7 @@ screening.
+ 1. Design and order sgRNA targeting exon 2 of the gene of interest.
+ 2. Complex Cas9 protein with sgRNA at a 1:1.2 molar ratio, incubate 10 min RT.
+ 3. Electroporate RNP complex into 2x10^5 cells per reaction.
+-4. Recover cells in antibiotic-free media for 48h.
++4. Recover cells in antibiotic-free media for 48 h.
+ 5. Validate editing efficiency by amplicon sequencing.
+ 
+ ## Team Notes
+[feature/hind-idea 6977055] chore: another small tweak
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+Current branch feature/hind-idea is up to date.
+* 6977055 chore: another small tweak
+* 872371d feat: add culture medium to reagents
+* 176e70a docs: restore team note from hind
+*   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| * b6938b5 fix: restore title and status lines in protocol.md
+* | 4578378 Revert "feat: add team note from hind"
+|/  
+* ff76c66 feat: add team note from hind
+* a754831 feat: add team note from mendy
+* c20bf82 Initial commit
+Your branch is up to date with 'origin/main'.
+Updating 176e70a..9baff60
+Fast-forward
+ protocol.md | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+Auto-merging protocol.md
+Merge made by the 'ort' strategy.
+ protocol.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+*   23597b0 Merge branch 'feature/hind-idea'
+|\  
+| * 6977055 chore: another small tweak
+| * 872371d feat: add culture medium to reagents
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/main'.
+Updating 23597b0..64366aa
+Fast-forward
+ protocol.md | 2 ++
+ 1 file changed, 2 insertions(+)
+  feature/hind-idea
+* feature/status-v2
+  main
+diff --git a/protocol.md b/protocol.md
+index da1f982..7ad0654 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -1,6 +1,6 @@
+ # CRISPR Knockout Screening Protocol
+ 
+-**Status:** Draft v1
++**Status:** Draft v2
+ 
+ ## Overview
+ Protocol for generating single-gene knockouts in HEK293 cells using
+[feature/status-v2 5ae9a23] chore: bump status to draft v2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/main'.
+Updating 64366aa..5ae9a23
+Fast-forward
+ protocol.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Updating 5ae9a23..deb2115
+Fast-forward
+ protocol.md | 9 ++++++---
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+*   deb2115 Merge branch 'feature/status-review'
+|\  
+| * e4ad15a chore: mark status as under review
+* |   6a8d572 Merge branch 'feature/sarah-idea'
+|\ \  
+| * | 7c81224 docs: tweak step wording
+| * | 5c79562 feat: add reagent to step 2
+| |/  
+* / 5ae9a23 chore: bump status to draft v2
+|/  
+*   64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| *   23597b0 Merge branch 'feature/hind-idea'
+| |\  
+| | * 6977055 chore: another small tweak
+| | * 872371d feat: add culture medium to reagents
+* | | 5eb4083 feat: re-add team note from Sarah
+|/ /  
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+*   deb2115 Merge branch 'feature/status-review'
+|\  
+| * e4ad15a chore: mark status as under review
+* |   6a8d572 Merge branch 'feature/sarah-idea'
+|\ \  
+| * | 7c81224 docs: tweak step wording
+| * | 5c79562 feat: add reagent to step 2
+| |/  
+* / 5ae9a23 chore: bump status to draft v2
+|/  
+*   64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| *   23597b0 Merge branch 'feature/hind-idea'
+| |\  
+| | * 6977055 chore: another small tweak
+| | * 872371d feat: add culture medium to reagents
+* | | 5eb4083 feat: re-add team note from Sarah
+|/ /  
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	protocole.md
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+  feature/hind-idea
+  feature/status-v2
+* main
