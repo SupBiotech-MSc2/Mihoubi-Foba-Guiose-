@@ -1,0 +1,899 @@
+[main 8c7a9fa] feat: add team note from Sarah
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+commit 8c7a9fa11bfd8f7c320cfff0e87bbf74847f6d19
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 21:37:08 2026 +0100
+
+    feat: add team note from Sarah
+
+diff --git a/protocol.md b/protocol.md
+index f083b29..cc4726b 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -21,5 +21,5 @@ screening.
+ 5. Validate editing efficiency by amplicon sequencing.
+ 
+ ## Team Notes
+-<!-- add your own line below, one per teammate -->
++Sarah: j'incluerai un controle negatif pour l'etape 5.<!-- add your own line below, one per teammate -->
+ 
+Unstaged changes after reset:
+M	protocol.md
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+	worklog-sarah.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-hind.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+diff --git a/protocol.md b/protocol.md
+index f083b29..f8454f6 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -21,5 +21,6 @@ screening.
+ 5. Validate editing efficiency by amplicon sequencing.
+ 
+ ## Team Notes
+-<!-- add your own line below, one per teammate -->
+ 
++<!-- add your own line below, one per teammate -->
++Sarah: j'incluerai un controle negatif pour l'etape 5
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+diff --git a/protocol.md b/protocol.md
+index f083b29..f7bc657 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -22,4 +22,4 @@ screening.
+ 
+ ## Team Notes
+ <!-- add your own line below, one per teammate -->
+-
++Sarah: j'incluerai un controle negatif pour l'etape 5.
+diff --git a/protocol.md b/protocol.md
+index f083b29..f8f28d0 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -21,5 +21,4 @@ screening.
+ 5. Validate editing efficiency by amplicon sequencing.
+ 
+ ## Team Notes
+-<!-- add your own line below, one per teammate -->
+-
++Sarah: j'incluerai un controle negatif pour l'etape 5.
+c20bf82 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[main ff38347] feat: add team note from Sarah
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Auto-merging protocol.md
+CONFLICT (content): Merge conflict in protocol.md
+Automatic merge failed; fix conflicts and then commit the result.
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 26 lines ](B[m[H(B[0;7m  GNU nano 7.2                      /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dMerge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-[4d[36m# Conflicts:[5d#[38;5;208m       [36mprotocol.md[6d#[7d# It looks like you may be committing a merge.[8d# If this is not correct, please run[9d#[38;5;208m       [36mgit update-ref -d MERGE_HEAD[10d# and try again.[13d# Please enter the commit message for your changes. Lines starting[14d# with '#' will be ignored, and an empty message aborts the commit.[15d#[16d# On branch main[17d# Your branch and 'origin/main' have diverged,[18d# and have 1 and 3 different commits each, respectively.[19d#[20d# All conflicts fixed but you are still merging.[21d#[22d# Changes to be committed:[23d#[38;5;208m       [36mmodified:   protocol.md[24d#[25d# Untracked files:[26d#[38;5;208m       [36mworklog-sarah.txt[27d#[2d[39m(B[m[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                                [28;73H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[28;52H(B[0;7m[ Wrote 26 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[10d[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[main 91f1ff7] Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+*   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| * b6938b5 fix: restore title and status lines in protocol.md
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+Merge made by the 'ort' strategy.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[main 1e1182d] test: throwaway commit
+ 1 file changed, 1 insertion(+)
+1e1182d test: throwaway commit
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+Unstaged changes after reset:
+M	protocol.md
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+Auto-merging protocol.md
+CONFLICT (content): Merge conflict in protocol.md
+On branch main
+Your branch is up to date with 'origin/main'.
+
+You are currently reverting commit ff38347.
+  (fix conflicts and run "git revert --continue")
+  (use "git revert --skip" to skip this patch)
+  (use "git revert --abort" to cancel the revert operation)
+
+Unmerged paths:
+  (use "git restore --staged <file>..." to unstage)
+  (use "git add <file>..." to mark resolution)
+	both modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 21 lines ](B[m[H(B[0;7m  GNU nano 7.2                      /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dRevert "feat: add team note from Sarah"[4dThis reverts commit ff383478e2c293477a8b4e1fd553fd0d86d2d91f.[6d[36m# Conflicts:[7d#[38;5;208m       [36mprotocol.md[9d# Please enter the commit message for your changes. Lines starting[10d# with '#' will be ignored, and an empty message aborts the commit.[11d#[12d# On branch main[13d# Your branch is up to date with 'origin/main'.[14d#[15d# You are currently reverting commit ff38347.[16d#[17d# Changes to be committed:[18d#[38;5;208m       [36mmodified:   protocol.md[19d#[20d# Untracked files:[21d#[38;5;208m       [36mworklog-sarah.txt[22d#[2d[39m(B[m[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                                [28;73H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[28;52H(B[0;7m[ Wrote 21 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2d[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[main 9baff60] Revert "feat: add team note from Sarah"
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+Already up to date.
+9baff60 Revert "feat: add team note from Sarah"
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+diff --git a/protocol.md b/protocol.md
+index d48b5d4..19d181d 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -33,3 +33,5 @@ screening.
+ <!-- add your own line below, one per teammate -->
+ 
+ 
++
++Sarah: j'incluerai un controle negatif pour l'etape 5.
+[main 5eb4083] feat: re-add team note from Sarah
+ 1 file changed, 2 insertions(+)
+Already up to date.
+Auto-merging protocol.md
+Merge made by the 'ort' strategy.
+ protocol.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 64366aa3d126ec437d518f719d8ce9d75c0b3b16
+Merge: 5eb4083 23597b0
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 23:05:09 2026 +0100
+
+    Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+
+commit 23597b0b5ff2593e3d9d7d928fe102813a3bbb03
+Merge: 9baff60 6977055
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 23:04:07 2026 +0100
+
+    Merge branch 'feature/hind-idea'
+
+commit 5eb4083fa419c637c466c75d762d70395797cb56
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 23:04:06 2026 +0100
+
+    feat: re-add team note from Sarah
+
+commit 9baff60a9b06911cbaddcb2bc88b13c720f792d7
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 23:03:11 2026 +0100
+
+    Revert "feat: add team note from Sarah"
+    
+    This reverts commit ff383478e2c293477a8b4e1fd553fd0d86d2d91f.
+
+commit 69770558bb65b9edbdb2a8b23cba8e1cf2f440b1
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 23:01:40 2026 +0100
+
+    chore: another small tweak
+
+commit 872371d6f602ba156b81297f7671d503a23116d6
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:58:58 2026 +0100
+
+    feat: add culture medium to reagents
+
+commit 4da0a22bf22dc07cca7453c0af74e3a6c7af7ce8
+Merge: 91f1ff7 176e70a
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 22:46:36 2026 +0100
+
+    Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+
+commit 91f1ff758567a6a091593b760678bea57b997eef
+Merge: ff38347 b6938b5
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 22:44:58 2026 +0100
+
+    Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+
+commit 176e70a0f5886993ddaa9779b26c642936a605b4
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:43:49 2026 +0100
+
+    docs: restore team note from hind
+
+commit bccb6b773c998e58eb5a2ceaacb0a9fbb55c58f0
+Merge: 4578378 b6938b5
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:37:11 2026 +0100
+
+    Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+
+commit 45783781bd30229dbe6b1f04dd20c798abaec840
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:34:48 2026 +0100
+
+    Revert "feat: add team note from hind"
+    
+    This reverts commit ff76c663ecde19f4a69e4d853bb975a5caad3d9c.
+
+commit b6938b5e3f1ed5e07b3ef2a86bf1fa61976f1c77
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:11:21 2026 +0100
+
+    fix: restore title and status lines in protocol.md
+
+commit ff76c663ecde19f4a69e4d853bb975a5caad3d9c
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 22:06:10 2026 +0100
+
+    feat: add team note from hind
+
+commit ff383478e2c293477a8b4e1fd553fd0d86d2d91f
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 21:51:14 2026 +0100
+
+    feat: add team note from Sarah
+
+commit a754831592dd533cd1e3e5e54ecd0c1ebed0c1f0
+Author: Mendy Foba <mendyfoba@MacBook-Air-de-Mendy.local>
+Date:   Thu Sep 24 12:21:48 2026 +0200
+
+    feat: add team note from mendy
+
+commit c20bf8294c08f137fd29f1312e7afc5b683ae120
+Author: hind2509 <hindoucha.mih25@gmail.com>
+Date:   Thu Sep 24 11:47:12 2026 +0200
+
+    Initial commit
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+commit ff383478e2c293477a8b4e1fd553fd0d86d2d91f
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 21:51:14 2026 +0100
+
+    feat: add team note from Sarah
+
+diff --git a/protocol.md b/protocol.md
+index f083b29..f8f28d0 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -21,5 +21,4 @@ screening.
+ 5. Validate editing efficiency by amplicon sequencing.
+ 
+ ## Team Notes
+-<!-- add your own line below, one per teammate -->
+-
++Sarah: j'incluerai un controle negatif pour l'etape 5.
+commit 9baff60a9b06911cbaddcb2bc88b13c720f792d7
+Author: Sarah Guiose <sarah.guiose@gmail.com>
+Date:   Mon Nov 16 23:03:11 2026 +0100
+
+    Revert "feat: add team note from Sarah"
+    
+    This reverts commit ff383478e2c293477a8b4e1fd553fd0d86d2d91f.
+
+diff --git a/protocol.md b/protocol.md
+index 2ba87f4..d48b5d4 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -27,5 +27,9 @@ screening.
+ 
+ - Mendy : je préciserais le temps d'incubation à l'étape 3.
+ - Hind  : je ralentirais l'étape de transduction
+-Sarah: j'incluerai un controle negatif pour l'etape 5.
++
++
++
++<!-- add your own line below, one per teammate -->
++
+ 
+* feature/sarah-idea
+  main
+diff --git a/protocol.md b/protocol.md
+index da1f982..3408961 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -12,7 +12,7 @@ screening.
+ - Synthetic sgRNA (target-specific)
+ - Electroporation buffer
+ - HEK293 cells, passage < 20
+-- Culture medium (DMEM + 10% FBS)
++- Culture large (DMEM + 10% FBS)
+ 
+ ## Steps
+ 1. Design and order sgRNA targeting exon 2 of the gene of interest.
+[feature/sarah-idea 5c79562] feat: add reagent to step 2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/main'.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+* feature/sarah-idea
+  main
+On branch feature/sarah-idea
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+diff --git a/protocol.md b/protocol.md
+index 3408961..ed6f40c 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -3,7 +3,7 @@
+ **Status:** Draft v1
+ 
+ ## Overview
+-Protocol for generating single-gene knockouts in HEK293 cells using
++Protocol for generating single-gene knockouts in REK293 cells using
+ CRISPR-Cas9 ribonucleoprotein (RNP) delivery, for downstream phenotypic
+ screening.
+ 
+[feature/sarah-idea 7c81224] docs: tweak step wording
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+5ae9a23 chore: bump status to draft v2
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+7c81224 docs: tweak step wording
+5c79562 feat: add reagent to step 2
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+Current branch feature/sarah-idea is up to date.
+* 7c81224 docs: tweak step wording
+* 5c79562 feat: add reagent to step 2
+*   64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| *   23597b0 Merge branch 'feature/hind-idea'
+| |\  
+| | * 6977055 chore: another small tweak
+| | * 872371d feat: add culture medium to reagents
+* | | 5eb4083 feat: re-add team note from Sarah
+|/ /  
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+  feature/sarah-idea
+* main
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+diff --git a/protocol.md b/protocol.md
+index e715fdd..ab01ad1 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -36,3 +36,5 @@ screening.
+ 
+ 
+ Sarah: j'incluerai un controle negatif pour l'etape 5.
++
++- Sarah : note rebase.
+[feature/sarah-rebase f34ba59] docs: add rebase practice note
+ 1 file changed, 2 insertions(+)
+Your branch is up to date with 'origin/main'.
+[main 3db8b75] chore: advance main for rebase demo
+ 1 file changed, 2 insertions(+)
+3db8b75 chore: advance main for rebase demo
+6a8d572 Merge branch 'feature/sarah-idea'
+7c81224 docs: tweak step wording
+5c79562 feat: add reagent to step 2
+5ae9a23 chore: bump status to draft v2
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+f34ba59 docs: add rebase practice note
+6a8d572 Merge branch 'feature/sarah-idea'
+7c81224 docs: tweak step wording
+5c79562 feat: add reagent to step 2
+5ae9a23 chore: bump status to draft v2
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+6977055 chore: another small tweak
+872371d feat: add culture medium to reagents
+4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+176e70a docs: restore team note from hind
+bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+4578378 Revert "feat: add team note from hind"
+b6938b5 fix: restore title and status lines in protocol.md
+ff76c66 feat: add team note from hind
+ff38347 feat: add team note from Sarah
+a754831 feat: add team note from mendy
+c20bf82 Initial commit
+Auto-merging protocol.md
+CONFLICT (content): Merge conflict in protocol.md
+* 3db8b75 chore: advance main for rebase demo
+*   6a8d572 Merge branch 'feature/sarah-idea'
+|\  
+| * 7c81224 docs: tweak step wording
+| * 5c79562 feat: add reagent to step 2
+* | 5ae9a23 chore: bump status to draft v2
+|/  
+*   64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| *   23597b0 Merge branch 'feature/hind-idea'
+| |\  
+| | * 6977055 chore: another small tweak
+| | * 872371d feat: add culture medium to reagents
+* | | 5eb4083 feat: re-add team note from Sarah
+|/ /  
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+interactive rebase in progress; onto 3db8b75
+Last command done (1 command done):
+   pick f34ba59 docs: add rebase practice note
+No commands remaining.
+You are currently rebasing branch 'feature/sarah-rebase' on '3db8b75'.
+  (fix conflicts and then run "git rebase --continue")
+  (use "git rebase --skip" to skip this patch)
+  (use "git rebase --abort" to check out the original branch)
+
+Unmerged paths:
+  (use "git restore --staged <file>..." to unstage)
+  (use "git add <file>..." to mark resolution)
+	both modified:   protocol.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 17 lines ](B[m[H(B[0;7m  GNU nano 7.2                      /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2ddocs: add rebase practice note[4d[36m# Please enter the commit message for your changes. Lines starting[5d# with '#' will be ignored, and an empty message aborts the commit.[6d#[7d# interactive rebase in progress; onto 3db8b75[8d# Last command done (1 command done):[9d#    pick f34ba59 docs: add rebase practice note[10d# No commands remaining.[11d# You are currently rebasing branch 'feature/sarah-rebase' on '3db8b75'.[12d#[13d# Changes to be committed:[14d#[38;5;208m       [36mmodified:   protocol.md[15d#[16d# Untracked files:[17d#[38;5;208m       [36mworklog-sarah.txt[18d#[2d[39m(B[m[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                                [28;73H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[28;52H(B[0;7m[ Wrote 17 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2d[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[detached HEAD fcad7b5] docs: add rebase practice note
+ 1 file changed, 4 insertions(+)
+* fcad7b5 docs: add rebase practice note
+* 3db8b75 chore: advance main for rebase demo
+*   6a8d572 Merge branch 'feature/sarah-idea'
+|\  
+| * 7c81224 docs: tweak step wording
+| * 5c79562 feat: add reagent to step 2
+* | 5ae9a23 chore: bump status to draft v2
+|/  
+*   64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| *   23597b0 Merge branch 'feature/hind-idea'
+| |\  
+| | * 6977055 chore: another small tweak
+| | * 872371d feat: add culture medium to reagents
+* | | 5eb4083 feat: re-add team note from Sarah
+|/ /  
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+Deleted branch feature/sarah-rebase (was fcad7b5).
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+  feature/sarah-idea
+* main
+6a8d572 Merge branch 'feature/sarah-idea'
+7c81224 docs: tweak step wording
+5c79562 feat: add reagent to step 2
+diff --git a/protocol.md b/protocol.md
+index 83ebaa3..f4bffe9 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -1,6 +1,6 @@
+ # CRISPR Knockout Screening Protocol
+ 
+-**Status:** Draft v2
++**Status:** Under review
+ 
+ ## Overview
+ Protocol for generating single-gene knockouts in REK293 cells using
+[feature/status-review d054dc7] chore: mark status as under review
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+Already up to date.
+Updating 3db8b75..d054dc7
+Fast-forward
+ protocol.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+d054dc7 chore: mark status as under review
+3db8b75 chore: advance main for rebase demo
+6a8d572 Merge branch 'feature/sarah-idea'
+7c81224 docs: tweak step wording
+5c79562 feat: add reagent to step 2
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+HEAD is now at 6a8d572 Merge branch 'feature/sarah-idea'
+Deleted branch feature/status-review (was d054dc7).
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+6a8d572 Merge branch 'feature/sarah-idea'
+7c81224 docs: tweak step wording
+5c79562 feat: add reagent to step 2
+5ae9a23 chore: bump status to draft v2
+64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+23597b0 Merge branch 'feature/hind-idea'
+5eb4083 feat: re-add team note from Sarah
+9baff60 Revert "feat: add team note from Sarah"
+5ae9a23 chore: bump status to draft v2
+commit 5ae9a236d7394a482274994c02fe60d3d76796ca
+Author: Hind Mihoubi <hindoucha.mih25@gmail.com>
+Date:   Mon Nov 16 23:12:36 2026 +0100
+
+    chore: bump status to draft v2
+
+diff --git a/protocol.md b/protocol.md
+index da1f982..7ad0654 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -1,6 +1,6 @@
+ # CRISPR Knockout Screening Protocol
+ 
+-**Status:** Draft v1
++**Status:** Draft v2
+ 
+ ## Overview
+ Protocol for generating single-gene knockouts in HEK293 cells using
+Your branch is up to date with 'origin/main'.
+Deleted branch feature/status-review (was 5ae9a23).
+diff --git a/protocol.md b/protocol.md
+index da1f982..e50bc21 100644
+--- a/protocol.md
++++ b/protocol.md
+@@ -1,6 +1,6 @@
+ # CRISPR Knockout Screening Protocol
+ 
+-**Status:** Draft v1
++**Status:** Under review
+ 
+ ## Overview
+ Protocol for generating single-gene knockouts in HEK293 cells using
+[feature/status-review e4ad15a] chore: mark status as under review
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/main'.
+Auto-merging protocol.md
+CONFLICT (content): Merge conflict in protocol.md
+Automatic merge failed; fix conflicts and then commit the result.
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 25 lines ](B[m[H(B[0;7m  GNU nano 7.2                      /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dMerge branch 'feature/status-review'[4d[36m# Conflicts:[5d#[38;5;208m       [36mprotocol.md[6d#[7d# It looks like you may be committing a merge.[8d# If this is not correct, please run[9d#[38;5;208m       [36mgit update-ref -d MERGE_HEAD[10d# and try again.[13d# Please enter the commit message for your changes. Lines starting[14d# with '#' will be ignored, and an empty message aborts the commit.[15d#[16d# On branch main[17d# Your branch is up to date with 'origin/main'.[18d#[19d# All conflicts fixed but you are still merging.[20d#[21d# Changes to be committed:[22d#[38;5;208m       [36mmodified:   protocol.md[23d#[24d# Untracked files:[25d#[38;5;208m       [36mworklog-sarah.txt[26d#[2d[39m(B[m[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: /home/sarah/Mihoubi-Foba-Guiose-/.git/COMMIT_EDITMSG                                                [28;73H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;119H[28;52H(B[0;7m[ Wrote 25 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2d[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[main deb2115] Merge branch 'feature/status-review'
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Updating deb2115..ffec39f
+Fast-forward
+ worklog-hind.txt | 615 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 615 insertions(+)
+ create mode 100644 worklog-hind.txt
+* ffec39f docs: add work log from hind
+* 1a09141 docs: add work log from hind
+*   deb2115 Merge branch 'feature/status-review'
+|\  
+| * e4ad15a chore: mark status as under review
+* |   6a8d572 Merge branch 'feature/sarah-idea'
+|\ \  
+| * | 7c81224 docs: tweak step wording
+| * | 5c79562 feat: add reagent to step 2
+| |/  
+* / 5ae9a23 chore: bump status to draft v2
+|/  
+*   64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| *   23597b0 Merge branch 'feature/hind-idea'
+| |\  
+| | * 6977055 chore: another small tweak
+| | * 872371d feat: add culture medium to reagents
+* | | 5eb4083 feat: re-add team note from Sarah
+|/ /  
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	worklog-sarah.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
