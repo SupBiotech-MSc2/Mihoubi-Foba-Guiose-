@@ -21,4 +21,11 @@ screening.
 5. Validate editing efficiency by amplicon sequencing.
 
 ## Team Notes
+
+<!-- add your own line below, one per teammate -->
+
+
+- Mendy : je préciserais le temps d'incubation à l'étape 3.
+- Hind  : je ralentirais l'étape de transduction
 Sarah: j'incluerai un controle negatif pour l'etape 5.
+
