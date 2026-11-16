@@ -27,5 +27,9 @@ screening.
 
 - Mendy : je préciserais le temps d'incubation à l'étape 3.
 - Hind  : je ralentirais l'étape de transduction
-Sarah: j'incluerai un controle negatif pour l'etape 5.
+
+
+
+<!-- add your own line below, one per teammate -->
+
 
