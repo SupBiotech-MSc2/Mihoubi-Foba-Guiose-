@@ -3,7 +3,7 @@
 **Status:** Draft v2
 
 ## Overview
-Protocol for generating single-gene knockouts in HEK293 cells using
+Protocol for generating single-gene knockouts in REK293 cells using
 CRISPR-Cas9 ribonucleoprotein (RNP) delivery, for downstream phenotypic
 screening.
 
@@ -12,7 +12,7 @@ screening.
 - Synthetic sgRNA (target-specific)
 - Electroporation buffer
 - HEK293 cells, passage < 20
-- Culture medium (DMEM + 10% FBS)
+- Culture large (DMEM + 10% FBS)
 
 ## Steps
 1. Design and order sgRNA targeting exon 2 of the gene of interest.
