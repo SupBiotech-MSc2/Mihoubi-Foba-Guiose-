@@ -25,3 +25,4 @@ screening.
 
 
 - Mendy : je préciserais le temps d'incubation à l'étape 3.
+- Hind  : je ralentirais l'étape de transduction.
