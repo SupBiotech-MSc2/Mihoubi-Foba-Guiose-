@@ -21,5 +21,4 @@ screening.
 5. Validate editing efficiency by amplicon sequencing.
 
 ## Team Notes
-<!-- add your own line below, one per teammate -->
-
+Sarah: j'incluerai un controle negatif pour l'etape 5.
