@@ -3,7 +3,7 @@
 **Status:** Draft v1
 
 ## Overview
-Protocol for generating single-gene knockouts in HEK293 cells using
+Protocol for generating single-gene knockouts in REK293 cells using
 CRISPR-Cas9 ribonucleoprotein (RNP) delivery, for downstream phenotypic
 screening.
 
