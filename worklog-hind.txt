@@ -560,3 +560,56 @@ nothing added to commit but untracked files present (use "git add" to track)
   feature/hind-idea
   feature/status-v2
 * main
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+* 1a09141 docs: add work log from hind
+*   deb2115 Merge branch 'feature/status-review'
+|\  
+| * e4ad15a chore: mark status as under review
+* |   6a8d572 Merge branch 'feature/sarah-idea'
+|\ \  
+| * | 7c81224 docs: tweak step wording
+| * | 5c79562 feat: add reagent to step 2
+| |/  
+* / 5ae9a23 chore: bump status to draft v2
+|/  
+*   64366aa Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\  
+| *   23597b0 Merge branch 'feature/hind-idea'
+| |\  
+| | * 6977055 chore: another small tweak
+| | * 872371d feat: add culture medium to reagents
+* | | 5eb4083 feat: re-add team note from Sarah
+|/ /  
+* | 9baff60 Revert "feat: add team note from Sarah"
+* | 4da0a22 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\| 
+| * 176e70a docs: restore team note from hind
+| *   bccb6b7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+| |\  
+| * | 4578378 Revert "feat: add team note from hind"
+* | |   91f1ff7 Merge branch 'main' of github.com:SupBiotech-MSc2/Mihoubi-Foba-Guiose-
+|\ \ \  
+| | |/  
+| |/|   
+| * | b6938b5 fix: restore title and status lines in protocol.md
+| |/  
+| * ff76c66 feat: add team note from hind
+| * a754831 feat: add team note from mendy
+* | ff38347 feat: add team note from Sarah
+|/  
+* c20bf82 Initial commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   worklog-hind.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+  feature/hind-idea
+  feature/status-v2
+* main
