@@ -1,6 +1,4 @@
-# CRISPR Knockout Screening Protocol
-
-**Status:** Draft v1
+# CRISPR Knockout Screening Protocol**Status:** Draft v1
 
 ## Overview
 Protocol for generating single-gene knockouts in HEK293 cells using
@@ -25,3 +23,4 @@ screening.
 
 
 - Mendy : je préciserais le temps d'incubation à l'étape 3.
+- Hind  : je ralentirais l'étape de transduction.
