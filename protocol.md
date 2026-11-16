@@ -1,6 +1,9 @@
 # CRISPR Knockout Screening Protocol
 
-**Status:** Draft v2
+
+
+**Status:** Under review
+
 
 ## Overview
 Protocol for generating single-gene knockouts in REK293 cells using
